@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes twice.
 Git tracks seoncd add.
 Creating a new branch is quicklly
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
